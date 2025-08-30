@@ -36,7 +36,7 @@ Build an interactive dashboard to analyse Shopify sales performance, customer be
 -	Interactive Filters & Drill-throughs – Allowing users to analyze performance across regions, campaigns, and product types.
 
 ## Dashboard Interaction :
-- <a href="https://app.powerbi.com/viewr=eyJrIjoiZDU4ZmNiNmYtZWQxOC00YWY4LTkxYTUtMWQ0ZmFlYmY4MzgwIiwidCI6ImU0YzUzOWI2LWMyNGEtNDdhMi1iMjg2LWJlN2ZhZTIzYmJjYyJ9">View-my-Dashboard</a>
+- <a href="https://app.powerbi.com/view?r=eyJrIjoiZDU4ZmNiNmYtZWQxOC00YWY4LTkxYTUtMWQ0ZmFlYmY4MzgwIiwidCI6ImU0YzUzOWI2LWMyNGEtNDdhMi1iMjg2LWJlN2ZhZTIzYmJjYyJ9">View-my-Dashboard</a>
 
 ## Conclusion :
 -	Improved decision-making for sales & marketing teams through real-time visibility of customer engagement and sales performance.
